@@ -1,0 +1,14 @@
+c:\dev\Tupla\bin\Debug\net7.0\Tupla.exe
+C:\dev\Tupla\bin\Debug\net7.0\Tupla.deps.json
+C:\dev\Tupla\bin\Debug\net7.0\Tupla.runtimeconfig.json
+c:\dev\Tupla\bin\Debug\net7.0\Tupla.dll
+c:\dev\Tupla\bin\Debug\net7.0\Tupla.pdb
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.AssemblyInfoInputs.cache
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.AssemblyInfo.cs
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.csproj.CoreCompileInputs.cache
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.dll
+c:\dev\Tupla\obj\Debug\net7.0\refint\Tupla.dll
+c:\dev\Tupla\obj\Debug\net7.0\Tupla.pdb
+C:\dev\Tupla\obj\Debug\net7.0\Tupla.genruntimeconfig.cache
+C:\dev\Tupla\obj\Debug\net7.0\ref\Tupla.dll
